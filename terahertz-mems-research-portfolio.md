@@ -24,7 +24,7 @@ This enables the development of intelligent MEMS devices capable of spectral, sp
 
 # Research Alignment
 
-## 🧪 1. Thin-Film Alloys & Computational Synthesis (SiGeC)
+## 1. Thin-Film Alloys & Computational Synthesis (SiGeC)
 
 ### Challenge
 
@@ -64,7 +64,7 @@ Experience with Python enables implementation of **Physics-Informed Neural Netwo
 
 ---
 
-# 📐 2. Intelligent MEMS Co-Design & Microfabrication
+# 2. Intelligent MEMS Co-Design & Microfabrication
 
 ### Challenge
 
@@ -109,7 +109,7 @@ This minimizes fabrication errors before cleanroom manufacturing.
 
 ---
 
-# ⚙️ 3. Automated Control Loops for Dynamic Wave Manipulation
+# 3. Automated Control Loops for Dynamic Wave Manipulation
 
 ### Challenge
 
@@ -164,7 +164,7 @@ to create adaptive self-tuning control systems capable of:
 
 ---
 
-# 👁️ 4. Terahertz Spectroscopic Imaging & Target Recognition
+# 4. Terahertz Spectroscopic Imaging & Target Recognition
 
 ### Challenge
 
@@ -205,7 +205,7 @@ demonstrating the ability to rapidly design AI systems capable of analysing nois
 
 ---
 
-# 🌐 5. High-Bandwidth Communications Architecture
+# 5. High-Bandwidth Communications Architecture
 
 ### Challenge
 
@@ -249,7 +249,7 @@ to minimise communication latency.
 
 ---
 
-# 📝 6. Dual-Domain Research Autonomy
+# 6. Dual-Domain Research Autonomy
 
 ### Challenge
 
