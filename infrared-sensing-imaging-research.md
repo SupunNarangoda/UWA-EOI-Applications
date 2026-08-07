@@ -1,6 +1,6 @@
 # Next Generation Infrared Sensing and Imaging Technologies — PhD and Masters
 
-My multidisciplinary background in engineering, dynamic signal processing, and autonomous systems directly supports the core goals of the TMOS project.
+My multidisciplinary background in metamaterial engineering, dynamic signal processing, and autonomous systems directly supports the core goals of the TMOS project. Key qualifications include expertise in nano-pillar fabrication, AI-driven resonator tuning, and high-throughput embedded systems for optimized infrared imaging.
 
 ### 1. Meta-Material & Micro-Lens Hardware Engineering
 
