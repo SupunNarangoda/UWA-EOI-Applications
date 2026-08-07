@@ -1,55 +1,59 @@
 # Harnessing Terahertz Radiation Using Micro-Electromechanical Systems (MEMS) — PhD and Masters
 
-### 1. Thin-Film Alloys & Computational Synthesis (SiGeC)
+My multi-degree profile seamlessly unifies the exact physical engineering skills needed to fabricate the devices with the advanced computer science tools required to optimize them.
 
-**The Challenge:**
-Tune ternary alloy SiGeC mechanical and optical properties across the broad terahertz band by precisely controlling composition.
+## 1. Thin-Film Alloys & Computational Synthesis (SiGeC)
 
-- **Materials Foundation**: Grades in Solid State Physics, Materials Engineering, and Mechanics and Materials provide an atomic-level understanding of lattice strain and tensor stresses needed to prevent thin-film buckling.
-- **AI-Driven Discovery**: Advanced Machine Learning and Reinforcement Learning skills bypass slow trial-and-error fabrication to algorithmically discover ideal chemical ratios for optimized transparency.
-- **Physics-Informed Modelling**: Python fluency combined with empirical stress equations ensures data-driven models (PINNs) match real-world physical laws.
+**Challenge:**
+Tune ternary alloy SiGeC mechanical and optical properties across the broad terahertz band by precisely controlling its composition.
 
-### 2. Intelligent MEMS Co-Design & Microfabrication
+- **Physics/Math Foundations**: *Intro to Solid State Physics* (B) and *Chemistry* (B) at SLTC provide an atomic-level understanding of crystal lattices and band structures to manage lattice strain.
+- **Mechanical Foundations**: *Materials Engineering* (DI), *Mechanics and Materials 2* (DI), and *Material Science & Strength of Materials* (B+) supply tools to calculate tensor stresses, thermal deformation, and yield criteria to prevent thin-film buckling.
+- **AI/Software Edge**: Bypasses slow trial-and-error physical fabrication using **Advanced Machine Learning** and **Reinforcement Learning** agents to algorithmically discover ideal chemical ratios (x and y) for optimized transparency.
+- **Physics-Informed Neural Networks (PINNs)**: Combines Python fluency (A+) with empirical stress equations to ensure data-driven models match real-world physical laws.
 
-**The Challenge:**
-Realize low-cost miniature devices for spectral, spatial, and temporal wave manipulation on a unified single-material platform at the ANFF WA Node.
+## 2. Intelligent MEMS Co-Design & Microfabrication
 
-- **Manufacturing Precision**: Top grades in Manufacturing Processes and the Praxis/Design Project confirm mastery of geometric dimensioning and tolerances.
-- **Topology Optimization**: Coursework in Structural Optimization and Mechanical Design 1 enables optimizing micro-cantilevers and membranes to maximize resonance while minimizing volume.
-- **Computational CAD Edge**: A Computer Science background allows programmatic layout architecture and automated FEA to eliminate mask flaws before cleanroom testing.
+**Challenge:**
+Realize low-cost miniature devices for spectral, spatial, and temporal wave manipulation using a unified single-material platform at the ANFF WA Node.
 
-### 3. Automated Control Loops for Dynamic Wave Manipulation
+- **Manufacturing Foundations**: *Intro to Manufacturing Processes* (A+) and *Praxis/Design Project* (A+) confirm mastery of geometric dimensioning and tolerances.
+- **Topology Optimization**: *Structural Optimization* and *Mechanical Design 1* (DI) at RMIT enable the optimization of micro-cantilevers and membranes to maximize resonance while minimizing volume.
+- **Computational CAD Edge**: Uses a First Class Honours Computer Science degree to approach layout architecture programmatically via Python scripts, executing automated virtual Finite Element Analysis (FEA) to eliminate mask flaws before cleanroom testing.
 
-**The Challenge:**
-Drive physical MEMS components to actively filter frequencies, steer beams, and switch pulses.
+## 3. Automated Control Loops for Dynamic Wave Manipulation
 
-- **Control Theory**: High grades in Automatic Control Systems and Control Systems Engineering enable transfer function design and state-space control to eradicate micro-actuator positioning errors.
-- **Signal Processing**: Signals and Systems and Advanced Math skills supply Fourier, Laplace, and Z-transform tools to model frequency-domain wave behaviors.
-- **Agentic AI Edge**: Training in Agentic AI and Autonomous Systems embeds self-tuning frameworks that monitor wave signals and reconfigure devices against thermal drift.
+**Challenge:**
+Drive physical MEMS components to actively filter frequencies (spectrally), steer beams (spatially), and switch pulses (temporally).
 
-### 4. Terahertz Spectroscopic Imaging & Target Recognition
+- **Control Theory Foundations**: Automatic Control Systems (DI, 78 WAM) and Control Systems Engineering (A-) enable exact transfer function design, Bode/Nyquist stability checks, and state-space control to eradicate micro-actuator positioning errors.
+- **Signal Processing Domain Mastery**: *Signals and Systems* (B-) and *Advanced Math for Engineers* (BX) supply the Fourier, Laplace, and Z-transforms needed to model frequency-domain wave behaviors.
+- **Agentic AI Edge**: Replaces fragile static loops with **Agentic AI and Autonomous Systems** (DI, 76 WAM) to embed self-tuning frameworks that monitor wave signals and actively reconfigure device orientation against thermal drift.
 
-**The Challenge:**
+## 4. Terahertz Spectroscopic Imaging & Target Recognition
+
+**Challenge:**
 Build practical, intelligent classification hardware platforms for chemical composition detection and target recognition.
 
-- **Digital Infrastructure**: A grade in Digital Fundamentals establishes the baseline needed for high-speed data acquisition loops for raw sensor telemetry.
-- **Deep Learning & Vision**: CNN and Vision Transformer architectures isolate, clean, and decode complex, non-linear spectral absorption signatures.
-- **Hackathon-Proven Prototyping**: Winning the 2025 RMIT Hackathon proves rapid classification of noisy experimental laboratory data under tight deadlines.
+- **Digital Systems Infrastructure**: *Digital Fundamentals* (A-) establishes the baseline needed to engineer high-speed data acquisition loops for raw sensor telemetry.
+- **Deep Learning/Vision Edge**: Deploys Deep Learning and Computer Vision architectures (CNNs and Vision Transformers) to isolate, clean, and decode highly complex, non-linear spectral absorption signatures that confound standard engineers.
+- **Prototyping under Pressure**: Winning the 2025 RMIT Gen AI & Cybersecurity Hackathon proves rapid development skills to parse, structure, and accurately classify noisy experimental laboratory data under tight time limits.
 
-### 5. High-Bandwidth Communications Architecture Interfacing
+## 5. High-Bandwidth Communications Architecture Interfacing
 
-**The Challenge:**
-Deploy the unified MEMS-terahertz device array directly into future ultra-high-frequency network systems such as 6G infrastructure.
+**Challenge:**
+Deploy the unified MEMS-terahertz device array directly into future ultra-high-frequency network systems (such as 6G infrastructure).
 
-- **Hardware/Firmware Integration**: Grades in Embedded Systems Design Project and Electronics Circuits prove capacity to build microcontroller nodes and custom PCBs to route signals to MEMS actuators.
-- **Software Architecture**: Data structures and algorithmic complexity knowledge build highly optimized data pipelines that eliminate latency and storage bottlenecks.
-- **Stack Optimization**: Expertise in memory allocation, multi-threading, and network protocols guarantees minimal routing latency at the software layer.
+- **Hardware/Firmware Integration**: *Embedded Systems Design Project* (A) and *Electronics Circuits* (B+) prove capacity to build microcontroller nodes and custom PCBs to route electrical signals directly to the MEMS actuators.
+- **Software Architecture Advantage**: Leverages Computer Science software engineering foundations in data structures and algorithmic complexity to build highly optimized data pipelines, eliminating potential latency and storage bottlenecks at high-bandwidth communication interfaces.
+- **Stack Optimization**: Applies expertise in data structures, memory allocation, multi-threading, and network protocols to the software layer to guarantee minimal routing latency.
 
-### 6. Dual-Domain Research Autonomy & Deployment Readiness
+## 6. Dual-Domain Research Autonomy & Deployment Readiness
 
-**The Challenge:**
+**Challenge:**
 Operate with high independence, manage long timelines, write technical literature, and publish original discoveries.
 
-- **Proven Research Output**: Two completed thesis tracks — a 30-credit Software Engineering project (77%) and an RMIT Capstone Project A (HD, 81) — demonstrate independent research capability.
-- **Deployment Readiness**: Training in AI System Deployment ensures well-documented, reproducible scripts ready to interface with cleanroom instruments.
-- **Research Transparency**: Explainable and Responsible AI frameworks translate algorithmic choices into transparent, publishable physical science.
+- **Double Research Hours**: Satisfies independent output metrics by completing two separate thesis tracks: a 30-credit Software Engineering project (300 Australian credit hours; 77%) and an RMIT Capstone Project A (HD, 81).
+- **Academic Writing Maturity**: Actively prepares final-year research findings for peer-reviewed journal publication, bypassing the typical onboarding literature and methodology review bottlenecks.
+- **Production Deployment Edge**: Leverages training in **AI System Deployment** to compile well-documented, reproducible optimization scripts that interface directly with physical cleanroom instruments.
+- **Scientific Transparency**: Deploys **Explainable and Responsible AI** interpretive frameworks to systematically explain algorithmic alloy choices, translating data predictions into transparent, publishable physical science.
