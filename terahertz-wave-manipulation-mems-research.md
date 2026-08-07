@@ -1,339 +1,44 @@
-# Micro-Electromechanical Systems for Manipulation of Terahertz Waves
+# Micro-Electromechanical Systems for Manipulation of Terahertz Waves — PhD and Masters
 
-> **Research Interest:** PhD / Master by Research  
-> **Research Area:** MEMS • Terahertz Engineering • Advanced Manufacturing • Artificial Intelligence • Embedded Systems • Computational Design • High-Frequency Communications
+### 1. Scalable MEMS Device Architecture & Micro-Fabrication Design
 
----
+**The Challenge:**
+Research and demonstrate scalable, low-cost, and miniature [Terahertz MEMS](https://www.researchgate.net/publication/401313197_Terahertz_MEMS_actuators_and_applications) architectures using generic fabrication processes capable of spanning the entire broad terahertz band at the [ANFF WA Node](https://anff.org.au/).
 
-## Overview
+- **Manufacturing Precision**: Top grades (A+) in *Introduction to Manufacturing Processes* and *Praxis/Design Project* ensure complete mastery over structural tolerances and micro-fabrication design rules needed for micro-lithography and cleanroom etching.
+- **Topology Optimization**: Currently completing an [RMIT University](https://www.rmit.edu.au/) Honours focus in *Structural Optimization* alongside a DI in *Mechanical Design 1*, providing the skills to design durable micro-scale flexures and cantilever arms that resist mechanical fatigue.
+- **Computational Edge**: Armed with a First-Class Honours Computer Science degree, writes custom Python scripts to programmatically generate layout structures and parameterize massive MEMS matrices for automated multi-physics FEA simulations before fabrication.
 
-My interdisciplinary background combines **Advanced Manufacturing & Mechatronics Engineering** with a **First Class Honours Degree in Computer Science (Software Engineering)**, enabling me to contribute across the complete lifecycle of terahertz MEMS research.
+### 2. Multi-Dimensional Wave Manipulation (Spectral, Spatial, and Temporal)
 
-My expertise spans precision microfabrication, MEMS structural optimization, intelligent control systems, computational modelling, embedded hardware, computer vision, and AI-driven optimization. This combination provides the foundation required to design scalable MEMS devices capable of manipulating terahertz waves across the spectral, spatial, and temporal domains.
+**The Challenge:**
+Design physical MEMS arrays capable of performing three distinct electromagnetic functions: spectral tuning (filtering), spatial steering (beam pathing), and temporal modulation (high-speed wave switching).
 
----
+- **Feedback Dynamics**: Academic excellence in *Automatic Control Systems* (DI, 78 WAM) and *Control Systems Engineering* (A-) allows modeling closed-loop transfer functions and constructing state-space controller architectures that suppress structural vibration during sub-micron switching.
+- **Signal Mastery**: Backed by strong grades in *Signals and Systems* (B-) and *Advanced Math for Engineers*, applies Fourier analysis, Laplace transforms, and complex variable calculus to analyze wave phase shifts and insertion losses from hardware layouts.
+- **Autonomous Edge**: A background in *Agentic AI and Autonomous Systems* (DI, 76 WAM) enables building a localized software framework treating individual MEMS cells as autonomous agents that self-tune local actuation voltages to dynamically correct phase drift.
 
-# Research Alignment
+### 3. Terahertz Spectroscopic Imaging, Target Recognition & Applied Data Streams
 
-## 1. Scalable MEMS Device Architecture & Micro-Fabrication Design
+**The Challenge:**
+Deploy the scalable MEMS hardware platform into integrated data pipelines optimized for real-time terahertz spectroscopic imaging, automated target recognition, and chemical composition detection.
 
-### Challenge
+- **Data Infrastructure**: An A- in *Digital Fundamentals* establishes a clear understanding of the digital logic and high-speed data acquisition loops required to capture high-frequency streams from MEMS diagnostic boards.
+- **Deep Learning & Vision**: Specialized training in *Deep Learning* and *Computer Vision* enables designing neural networks (like CNNs and spatial transformers) to process, decode, and de-noise complex, non-linear terahertz spectroscopic image matrices.
+- **Prototyping Validation**: Victory in the 2025 RMIT Gen AI & Cybersecurity Hackathon proves the capability to rapidly build pattern-recognition algorithms from chaotic, raw datasets under strict laboratory deadlines.
 
-Develop scalable, miniature, and low-cost MEMS devices using generic fabrication technologies capable of manipulating electromagnetic waves across the complete terahertz spectrum. Device fabrication is performed using advanced cleanroom processes at the Western Australian Node of the Australian National Fabrication Facility (ANFF).
+### 4. High-Bandwidth Communications Architecture & Systems Interfacing
 
-### Engineering Foundations
+**The Challenge:**
+Interface and deploy spectrally tunable MEMS devices within ultra-fast hardware networks to support future high-bandwidth communication infrastructures like 6G.
 
-Relevant coursework includes:
+- **Firmware Integration**: Grades of A in *Embedded Systems Design Project* and B+ in *Electronic Circuits* confirm the ability to build optimized microcontroller nodes and custom PCBs to successfully route high-frequency electrical signals to MEMS actuators.
+- **Software Architecture**: A Computer Science background prevents data flow bottlenecks by leveraging computational complexity analysis, memory management, and high-performance threading to optimize hardware-to-software layers for ultra-low latency.
 
-- Introduction to Manufacturing Processes (A+)
-- Praxis / Design Project (A+)
+### 5. Dual-Domain Academic Research Autonomy & Deployment Readiness
 
-These subjects provide expertise in:
+**The Challenge:**
+Operate with high laboratory autonomy, manage rigorous project timelines, compile comprehensive literature reviews, and publish novel discoveries in peer-reviewed scientific journals.
 
-- Precision manufacturing
-- Geometric Dimensioning & Tolerancing (GD&T)
-- Structural tolerances
-- Micro-fabrication principles
-- Design for manufacture
-
-### Structural Optimization
-
-Supported by:
-
-- Structural Optimization (Current)
-- Mechanical Design 1 (DI)
-
-These provide knowledge in:
-
-- Topology optimization
-- Micro-flexure design
-- Cantilever optimization
-- Fatigue reduction
-- Suspension system design
-- Mechanical reliability
-
-### Computational Co-Design
-
-My Computer Science background enables automated engineering workflows using:
-
-- Python scripting
-- Parametric CAD generation
-- Automated MEMS layout generation
-- Multi-physics simulation
-- Finite Element Analysis (FEA)
-
-These tools enable rapid verification of device scalability before fabrication.
-
----
-
-# 2. Multi-Dimensional Wave Manipulation
-
-### Challenge
-
-Develop MEMS devices capable of simultaneously performing:
-
-- Spectral tuning
-- Spatial beam steering
-- Temporal modulation
-
-across the terahertz frequency spectrum.
-
-### Control Engineering Foundations
-
-Relevant coursework:
-
-- Automatic Control Systems (DI, 78 WAM)
-- Control Systems Engineering (A-)
-
-Core competencies include:
-
-- Closed-loop control
-- Transfer functions
-- State-space control
-- Feedback dynamics
-- Vibration suppression
-- Precision actuator control
-
-### Signal Processing Foundations
-
-Supported by:
-
-- Signals and Systems (B-)
-- Advanced Mathematics for Engineers
-
-Including:
-
-- Fourier analysis
-- Laplace transforms
-- Complex variables
-- Frequency-domain modelling
-- Wave propagation
-
-### Agentic AI Advantage
-
-Experience in:
-
-- Agentic AI
-- Autonomous Systems (DI, 76 WAM)
-
-enables development of adaptive MEMS arrays capable of:
-
-- Autonomous recalibration
-- Thermal drift compensation
-- Crosstalk reduction
-- Self-tuning actuation
-- Real-time wave optimization
-
----
-
-# 3. Terahertz Spectroscopic Imaging, Target Recognition & Applied Data Processing
-
-### Challenge
-
-Develop intelligent MEMS platforms capable of:
-
-- Terahertz spectroscopic imaging
-- Target recognition
-- Chemical composition detection
-
-### Digital Systems Foundation
-
-Relevant coursework:
-
-- Digital Fundamentals (A-)
-
-Supporting expertise in:
-
-- High-speed data acquisition
-- Sensor interfaces
-- Embedded diagnostics
-- Digital communication systems
-
-### Artificial Intelligence & Computer Vision
-
-Strong background in:
-
-- Deep Learning
-- Computer Vision
-- Convolutional Neural Networks (CNNs)
-- Spatial Transformer Networks
-
-These techniques can be applied to:
-
-- Spectral image reconstruction
-- Noise reduction
-- Pattern recognition
-- Target classification
-- Chemical identification
-
-### Rapid AI Prototyping
-
-Winner of the:
-
-**2025 RMIT Gen AI & Cybersecurity Hackathon**
-
-demonstrating the ability to rapidly develop machine learning solutions from noisy experimental datasets under demanding timelines.
-
----
-
-# 4. High-Bandwidth Communications Architecture & Systems Integration
-
-### Challenge
-
-Integrate spectrally tunable MEMS platforms into future ultra-high-speed communication systems, including 6G infrastructure.
-
-### Embedded Hardware Engineering
-
-Relevant coursework:
-
-- Embedded Systems Design Project (A)
-- Electronics Circuits (B+)
-
-Supporting expertise in:
-
-- Embedded firmware
-- PCB design
-- Microcontroller programming
-- High-speed signal routing
-- Hardware integration
-
-### Software Engineering Advantage
-
-My Computer Science background provides expertise in:
-
-- Data structures
-- Algorithms
-- Computational complexity
-- Memory management
-- Multi-threading
-- High-performance software architecture
-
-These skills support the development of low-latency communication pipelines capable of matching terahertz data rates.
-
----
-
-# 5. Dual-Domain Academic Research Autonomy & Deployment Readiness
-
-### Challenge
-
-Conduct independent multidisciplinary research leading to publication-quality scientific outcomes and reproducible engineering solutions.
-
-### Independent Research Experience
-
-Completed two major research-intensive projects:
-
-- Software Engineering Research Project
-  - 30 Credit Project
-  - Equivalent to 300 Australian Credit Hours
-  - Final Grade: 77%
-
-- RMIT Engineering Capstone Project A
-  - High Distinction
-  - Final Grade: 81%
-
-These projects demonstrate the ability to:
-
-- Conduct independent research
-- Perform literature reviews
-- Develop engineering methodologies
-- Produce scientific documentation
-
-### Academic Writing
-
-Experience preparing technical work suitable for:
-
-- Peer-reviewed publications
-- Literature reviews
-- Technical reports
-- Research documentation
-
-### AI Deployment
-
-Training in AI System Deployment enables the development of:
-
-- Modular automation scripts
-- Reproducible research workflows
-- Laboratory software pipelines
-- Instrument control systems
-
-### Explainable AI
-
-Knowledge of:
-
-- Explainable AI (XAI)
-- Responsible AI
-
-supports the development of transparent optimization algorithms whose design decisions remain physically interpretable and scientifically reproducible.
-
----
-
-# Technical Skills
-
-## Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Agentic AI
-- Explainable AI
-- AI System Deployment
-
-## MEMS Engineering
-
-- MEMS Design
-- Structural Optimization
-- Precision Manufacturing
-- Micro-Fabrication
-- Finite Element Analysis
-- Computational Design
-
-## Programming
-
-- Python
-- MATLAB
-- C++
-- Java
-
-## Engineering
-
-- Control Systems
-- Signal Processing
-- Embedded Systems
-- PCB Design
-- Electronics
-- Mechanical Design
-
----
-
-# Research Vision
-
-I aim to develop scalable MEMS platforms capable of intelligent terahertz wave manipulation by combining:
-
-- Advanced manufacturing
-- Computational engineering
-- Artificial intelligence
-- Embedded systems
-- Adaptive control
-- High-performance software
-
-to accelerate next-generation sensing, imaging, communications, and intelligent electromagnetic systems.
-
----
-
-# Areas of Interest
-
-- MEMS
-- Terahertz Engineering
-- Computational Materials
-- Advanced Manufacturing
-- Structural Optimization
-- Micro-Fabrication
-- Embedded Systems
-- Signal Processing
-- Artificial Intelligence
-- Computer Vision
-- Adaptive Control
-- High-Frequency Communications
-- Scientific Machine Learning
-- Explainable AI
-- 6G Technologies
+- **Proven Research Experience**: Demonstrated research execution across two distinct thesis tracks: a 30-credit *Software Engineering Research Project* (77%) and an *RMIT Mechatronics Capstone Project A* (HD, 81), currently continuing into Capstone B.
+- **Deployment & Transparency**: AI certification in *AI System Deployment* ensures automation scripts are production-ready for cleanroom instruments at UWA, while *Explainable and Responsible AI* training ensures machine learning models remain physically interpretable for high-impact journals.
