@@ -1,300 +1,46 @@
-# Next Generation Infrared Sensing and Imaging Technologies
+# Next Generation Infrared Sensing and Imaging Technologies — PhD and Masters
 
-> **Research Interest:** PhD / Master by Research  
-> **Research Area:** Infrared Imaging • Meta-Materials • MEMS • Computational Imaging • Artificial Intelligence • Embedded Systems • Computer Vision
+My multidisciplinary background in engineering, dynamic signal processing, and autonomous systems directly supports the core goals of the TMOS project.
 
----
+### 1. Meta-Material & Micro-Lens Hardware Engineering
 
-## Overview
+**The Research Challenge:**
+Replacing bulky, cryogenic cooling in infrared sensors with lightweight, subwavelength arrays and micro-lenses for higher-temperature operation at the ANFF WA Node.
 
-My multidisciplinary background in **Advanced Manufacturing & Mechatronics Engineering** and **First Class Honours in Computer Science (Software Engineering)** provides a strong foundation for research in next-generation infrared sensing and imaging technologies.
+- **Precision Fabrication Competence**: Academic performance in manufacturing and design proves the ability to manage the precise lithographic control required to etch nano-pillar arrays into semiconductors.
+- **Advanced Stress & Failure Modeling**: Materials engineering background provides tools to evaluate mechanical strain, thermal expansion, and structural boundaries during fabrication.
+- **Algorithmic Optomechanical Modeling**: Computer science expertise enables the creation of Python-based Finite-Difference Time-Domain (FDTD) scripts to automate simulation and optimize nano-structure geometry.
 
-My expertise combines precision manufacturing, meta-material engineering, control systems, computational imaging, artificial intelligence, embedded systems, and high-performance software engineering to support the development of intelligent infrared imaging platforms.
+### 2. Dynamic Modulation Transfer Function (MTF) & Tunable Resonators
 
----
+**The Research Challenge:**
+Developing electrically tunable infrared resonators acting as spectral filters to isolate wavelengths and eliminate pixel cross-talk.
 
-# Research Alignment
+- **Electro-Mechanical System Control**: Skills in control systems enable designing stable, closed-loop feedback models to accurately drive electrostatic or electro-thermal micro-actuators.
+- **Signal and Optical Wave Transformation**: Background in signal processing and calculus provides the mathematical foundation (Fourier transforms and convolution) to model spatial frequencies and improve image contrast.
+- **Intelligent Self-Tuning Resonators**: Advanced training in Agentic AI and Autonomous Systems allows the construction of software agents that monitor pixel feedback and dynamically tune resonators under fluctuating temperatures.
 
-## 1. Meta-Material & Micro-Lens Hardware Engineering
+### 3. Multi-Spectral Processing, Advanced Imaging, and Cross-Talk Mitigation
 
-### Challenge
+**The Research Challenge:**
+Processing raw data from subwavelength metasurfaces to eliminate optical cross-talk and reconstruct clean images for practical, high-throughput applications.
 
-Develop lightweight meta-material structures and micro-lens arrays capable of replacing bulky cryogenic infrared sensing systems with compact, high-performance devices fabricated at the Western Australian Node of the Australian National Fabrication Facility (ANFF).
+- **High-Speed Data Acquisition**: Mastery of digital electronics ensures proper interfacing with high-speed analog-to-digital converters to capture raw pixel readouts.
+- **Intelligent De-noising Pipelines**: Specialized training in Deep Learning and Computer Vision enables the development of computational imaging pipelines to remove thermal noise and isolate spectral bands.
+- **Hackathon-Validated Prototyping**: Experience from the 2025 RMIT Gen AI & Cybersecurity Hackathon proves the capacity to rapidly build and deploy image-processing models for experimental data.
 
-### Engineering Foundations
+### 4. High-Throughput Embedded Systems for Autonomous Platforms
 
-Relevant coursework includes:
+**The Research Challenge:**
+Miniaturizing infrared sensors to ensure low-latency processing and low power consumption on constrained platforms, such as drones and small satellites.
 
-- Introduction to Manufacturing Processes (A+)
-- Praxis / Design Project (A+)
-- Materials Engineering
-- Mechanics and Materials
-- Material Science
+- **Efficient Firmware Integration**: Strong performance in embedded systems design demonstrates the capability to program low-power hardware and microcontrollers for sensor interfacing.
+- **Low-Power System Design**: Expertise in memory management, parallel computing, and algorithmic complexity enables software stack optimization to reduce Size, Weight, and Power (SWaP) footprints.
 
-These subjects provide expertise in:
+### 5. Comprehensive Research Footprint & Algorithmic Explainability
 
-- Precision manufacturing
-- Lithographic fabrication
-- Structural tolerances
-- Mechanical stress analysis
-- Thermal expansion
-- Failure prediction
+**The Research Challenge:**
+Conducting autonomous, verifiable, and high-impact scientific research suitable for publication within an ARC Centre of Excellence.
 
-### Computational Engineering Advantage
-
-My Computer Science background enables automated engineering workflows using:
-
-- Python scripting
-- Finite-Difference Time-Domain (FDTD) simulations
-- Computational optimisation
-- Parametric geometry generation
-- Automated design verification
-
-These tools support rapid optimisation of nano-structure geometries before fabrication.
-
----
-
-# 2. Dynamic Modulation Transfer Function (MTF) & Tunable Resonators
-
-### Challenge
-
-Develop electrically tunable infrared resonators capable of selectively filtering wavelengths while reducing optical cross-talk and improving image quality.
-
-### Control Engineering Foundations
-
-Relevant coursework:
-
-- Automatic Control Systems (DI, 78 WAM)
-- Control Systems Engineering (A-)
-
-Supporting expertise in:
-
-- Closed-loop feedback control
-- State-space modelling
-- Transfer functions
-- Stability analysis
-- Electro-mechanical actuator control
-
-### Signal Processing Foundations
-
-Supported by:
-
-- Signals and Systems (B-)
-- Advanced Calculus
-
-Providing knowledge in:
-
-- Fourier transforms
-- Convolution
-- Spatial frequency analysis
-- Wave propagation
-- Image contrast enhancement
-
-### Agentic AI Advantage
-
-Experience in:
-
-- Agentic AI
-- Autonomous Systems (DI, 76 WAM)
-
-supports development of adaptive resonator systems capable of:
-
-- Autonomous tuning
-- Thermal compensation
-- Pixel-level optimisation
-- Real-time feedback control
-
----
-
-# 3. Multi-Spectral Processing, Advanced Imaging & Cross-Talk Mitigation
-
-### Challenge
-
-Process raw infrared data generated by subwavelength metasurfaces to eliminate optical cross-talk and reconstruct high-quality images suitable for practical sensing applications.
-
-### Digital Systems Foundation
-
-Relevant coursework:
-
-- Digital Fundamentals (A-)
-
-Providing expertise in:
-
-- High-speed digital electronics
-- Analog-to-digital conversion
-- Sensor interfacing
-- High-throughput data acquisition
-
-### Artificial Intelligence & Computer Vision
-
-Strong background in:
-
-- Deep Learning
-- Computer Vision
-- Convolutional Neural Networks (CNNs)
-- Vision Transformers (ViTs)
-
-These techniques support:
-
-- Thermal noise reduction
-- Spectral image reconstruction
-- Computational imaging
-- Multi-spectral image processing
-- Pattern recognition
-
-### Rapid AI Prototyping
-
-Winner of the:
-
-**2025 RMIT Gen AI & Cybersecurity Hackathon**
-
-demonstrating the ability to rapidly develop intelligent image-processing solutions from complex experimental datasets.
-
----
-
-# 4. High-Throughput Embedded Systems for Autonomous Platforms
-
-### Challenge
-
-Develop compact infrared sensing systems capable of low-power, real-time processing for deployment on autonomous platforms such as drones and small satellites.
-
-### Embedded Hardware Engineering
-
-Relevant coursework:
-
-- Embedded Systems Design Project (A)
-- Electronics Circuits (B+)
-
-Supporting expertise in:
-
-- Embedded firmware
-- Microcontroller programming
-- Sensor interfacing
-- Hardware integration
-- PCB design
-
-### Software Engineering Advantage
-
-Computer Science expertise provides experience in:
-
-- Memory management
-- Parallel computing
-- Multi-threading
-- Algorithm optimisation
-- High-performance software architecture
-
-These skills enable optimisation of Size, Weight, and Power (SWaP) requirements for embedded infrared sensing platforms.
-
----
-
-# 5. Comprehensive Research Footprint & Algorithmic Explainability
-
-### Challenge
-
-Conduct independent, reproducible, and publication-quality research suitable for an ARC Centre of Excellence.
-
-### Independent Research Experience
-
-Completed two major research-intensive projects:
-
-- Software Engineering Research Project
-  - 30 Credit Project
-  - Equivalent to 300 Australian Credit Hours
-  - Final Grade: 77%
-
-- RMIT Engineering Capstone Project A
-  - High Distinction
-  - Final Grade: 81%
-
-These projects demonstrate the ability to:
-
-- Conduct independent research
-- Perform literature reviews
-- Develop engineering methodologies
-- Produce technical documentation
-- Manage multidisciplinary projects
-
-### Explainable AI
-
-Training in:
-
-- AI System Deployment
-- Explainable AI (XAI)
-- Responsible AI
-
-supports the development of transparent machine learning models whose predictions remain physically interpretable, scientifically reproducible, and suitable for publication.
-
----
-
-# Technical Skills
-
-## Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Agentic AI
-- Explainable AI
-- AI System Deployment
-
-## Infrared & Meta-Material Engineering
-
-- Meta-Materials
-- Infrared Imaging
-- Nano-Structure Design
-- Micro-Lens Engineering
-- Computational Electromagnetics
-- FDTD Simulation
-- Precision Manufacturing
-
-## Programming
-
-- Python
-- MATLAB
-- C++
-- Java
-
-## Engineering
-
-- Embedded Systems
-- Control Systems
-- Signal Processing
-- Electronics
-- PCB Design
-- Mechanical Design
-
----
-
-# Research Vision
-
-I aim to develop intelligent infrared sensing systems by integrating:
-
-- Meta-material engineering
-- Computational imaging
-- Artificial intelligence
-- Embedded systems
-- Advanced manufacturing
-- High-performance software
-
-to enable compact, energy-efficient infrared imaging technologies for autonomous systems, scientific instrumentation, remote sensing, and next-generation defence and aerospace applications.
-
----
-
-# Areas of Interest
-
-- Infrared Imaging
-- Meta-Materials
-- Computational Imaging
-- MEMS
-- Nano-Fabrication
-- Embedded Systems
-- Computer Vision
-- Deep Learning
-- Artificial Intelligence
-- Signal Processing
-- Control Systems
-- High-Performance Computing
-- Explainable AI
-- Autonomous Systems
-- Remote Sensing
-- Smart Sensors
+- **Proven Research History**: Completion of a 30-credit Software Engineering Thesis and an RMIT Mechatronics Capstone Project demonstrates strong cross-disciplinary autonomy and methodology.
+- **Explainable Engineering Models**: Expertise in AI System Deployment and Explainable AI allows the application of interpretability frameworks to ensure machine learning parameters are physically explainable.
