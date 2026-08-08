@@ -1,22 +1,22 @@
 # Next Generation Infrared Sensing and Imaging Technologies — PhD and Masters
 
-My multidisciplinary background in metamaterial engineering, dynamic signal processing, and autonomous systems directly supports the core goals of the TMOS project. Key qualifications include expertise in nano-pillar fabrication, AI-driven resonator tuning, and high-throughput embedded systems for optimized infrared imaging.
+My multidisciplinary background in metamaterial engineering, dynamic signal processing, and autonomous systems directly supports the core goals of the TMOS project. Key qualifications, expertise in nano-pillar fabrication, AI-driven resonator tuning, and high-throughput embedded systems for optimized infrared imaging.
 
-### 1. Meta-Material & Micro-Lens Hardware Engineering
+### 1. Material & Micro-Lens Hardware Engineering
 
 **The Research Challenge:**
 Replacing bulky, cryogenic cooling in infrared sensors with lightweight, subwavelength arrays and micro-lenses for higher-temperature operation at the ANFF WA Node.
 
 - **Precision Fabrication Competence**: Academic performance in manufacturing and design proves the ability to manage the precise lithographic control required to etch nano-pillar arrays into semiconductors.
 - **Advanced Stress & Failure Modeling**: Materials engineering background provides tools to evaluate mechanical strain, thermal expansion, and structural boundaries during fabrication.
-- **Algorithmic Optomechanical Modeling**: Computer science expertise enables the creation of Python-based Finite-Difference Time-Domain (FDTD) scripts to automate simulation and optimize nano-structure geometry.
+- **Algorithmic Optomechanical Modeling**: Computer science expertise, the creation of Python-based Finite-Difference Time-Domain (FDTD) scripts to automate simulation and optimize nano-structure geometry.
 
 ### 2. Dynamic Modulation Transfer Function (MTF) & Tunable Resonators
 
 **The Research Challenge:**
 Developing electrically tunable infrared resonators acting as spectral filters to isolate wavelengths and eliminate pixel cross-talk.
 
-- **Electro-Mechanical System Control**: Skills in control systems enable designing stable, closed-loop feedback models to accurately drive electrostatic or electro-thermal micro-actuators.
+- **Electro-Mechanical System Control**: Skills in control systems, designing stable, closed-loop feedback models to accurately drive electrostatic or electro-thermal micro-actuators.
 - **Signal and Optical Wave Transformation**: Background in signal processing and calculus provides the mathematical foundation (Fourier transforms and convolution) to model spatial frequencies and improve image contrast.
 - **Intelligent Self-Tuning Resonators**: Advanced training in Agentic AI and Autonomous Systems allows the construction of software agents that monitor pixel feedback and dynamically tune resonators under fluctuating temperatures.
 
